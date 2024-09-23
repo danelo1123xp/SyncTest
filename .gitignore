@@ -76,3 +76,7 @@ DerivedDataCache/*
 /Saved/
 /Intermediate/
 /Binaries/
+
+
+Config/DefaultEngine.ini
+testowe.bat
